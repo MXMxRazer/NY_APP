@@ -26,8 +26,14 @@
     },
     "web": {
       "favicon": "./assets/favicon.png",
+      "build": {
+        "babel": {},
+        "assetBundlePatterns": [
+          "**/*"
+        ]
+      },
       "web": {
-        "basePath": "/NY_APP/"
+        "basePath": "/NY_APP"
       }
     },
     "extra": {
