@@ -1,6 +1,7 @@
 {
   "name": "ny_app",
   "version": "1.0.0",
+  "homepage": "https://mxmxrazer.github.io/NY_APP/",
   "main": "index.ts",
   "scripts": {
     "start": "expo start",
