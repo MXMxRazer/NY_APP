@@ -32,9 +32,7 @@
           "**/*"
         ]
       },
-      "web": {
-        "basePath": "/NY_APP"
-      }
+      "basePath": "/NY_APP/"
     },
     "extra": {
       "eas": {
